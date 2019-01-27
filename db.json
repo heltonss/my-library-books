@@ -1,0 +1,46 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nome": "Daniel Carvalho",
+      "email": "daniel.carvalho@gmail.com",
+      "senha": ""
+    },
+    {
+      "id": 2,
+      "nome": "paty c",
+      "email": "paty.car@gmail.com",
+      "senha": ""
+    },
+    {
+      "nome": "helton@heltonsouza.com.br",
+      "email": "helton@heltonsouza.com.br",
+      "senha": "fdfsfs",
+      "id": 3
+    },
+    {
+      "nome": "helton@heltonsouza.com.br",
+      "email": "helton@heltonsouza.com.br",
+      "senha": "fsdfsfs",
+      "id": 4
+    },
+    {
+      "nome": "helton@heltonsouza.com.br",
+      "email": "helton@heltonsouza.com.br",
+      "senha": "fsdfsfs",
+      "id": 5
+    },
+    {
+      "nome": "helton",
+      "email": "helton@heltonsouza.com.br",
+      "senha": "fsdfsdfds",
+      "id": 6
+    },
+    {
+      "nome": "helloko",
+      "email": "helton@heltonsouza.com.br",
+      "senha": "fsdfsdfds",
+      "id": 7
+    }
+  ]
+}
